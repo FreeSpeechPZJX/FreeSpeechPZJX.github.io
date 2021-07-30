@@ -17,7 +17,7 @@ permalink: /about.html
 
 GitHub: [FreeSpeechPZJX](https://github.com/FreeSpeechPZJX)
 
-Twitter: 没有
+Facebook: [Zhang Feng](https://www.facebook.com/profile.php?id=100067996023835)
 
 Forum: 还没有
 
