@@ -7,6 +7,8 @@ tags: 知乎
 description: 知乎回答备份
 is_sticky: false
 ---
+以下是知乎上《彭州嘉祥》内容的备份，请使用Ctrl+F搜索。
+
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/304270007) ![][img-0] 匿名用户
 
 张峰上任第一天，改了校名
