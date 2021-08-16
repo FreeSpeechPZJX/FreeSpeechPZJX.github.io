@@ -78,5 +78,6 @@ is_sticky: true
     - is_sticky: false 保持不变（除非十分重要请填写true）
 
 2. 图片编辑
-  1. 使用 [https://sm.ms](https://sm.ms) 或 [https://imgur.com](https://imgur.com) 图床平台生成链接。
-  2. 图注用 `<center>图注</center>` 居中。
+
+	- 使用 [https://sm.ms](https://sm.ms) 或 [https://imgur.com](https://imgur.com) 图床平台生成链接。
+	- 图注用 `<center>图注</center>` 居中。
