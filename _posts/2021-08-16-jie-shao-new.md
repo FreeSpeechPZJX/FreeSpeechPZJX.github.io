@@ -48,6 +48,7 @@ is_sticky: true
     
     在自己的仓库页面，点击 **new pull request**，再点击 **create pull request**，填写 PR 描述并提交。
     ![create_pull_request.PNG](https://i.loli.net/2021/08/16/a5XGYHhKjy2egIs.png)
+    （上图中单击 **Create pull request**，会出现下图的情况）
     ![create_pull_request1.PNG](https://i.loli.net/2021/08/16/9RY8sFVKPJ1zXSu.png)
 
 6. 等待 Zhang Feng 查看 PR ，符合要求的内容会 merge(合并）。
